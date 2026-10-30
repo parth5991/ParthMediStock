@@ -66,8 +66,6 @@ ParthMediStock is a fictional pharmacy inventory analytics project created for p
 
 The project focuses on inventory management and does not include customer billing history, patient personal information, medical diagnosis, or sales forecasting.
 
-Python is not included in this project.
-
 ## Version History
 
 | Version | Date | Changes |
