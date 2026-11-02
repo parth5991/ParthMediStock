@@ -2,7 +2,7 @@
 
 ## 1. Source and structure
 
-The source workbook is `ParthMediStock_Inventory_V1.0.xlsx`. The cleaned analysis workbook is the V1.1 copy. The source table initially contained 155 data rows. After duplicate removal, the cleaned dataset contains 150 batch records, covering 50 unique medicines with three batches per medicine.
+The source workbook is `ParthMediStock_Inventory_raw.xlsx`. The cleaned analysis workbook is the massaged copy. The source table initially contained 155 data rows. After duplicate removal, the cleaned dataset contains 150 batch records, covering 50 unique medicines with three batches per medicine.
 
 Each row represents one batch, not one unique medicine. The first 12 columns are the source fields:
 
@@ -128,4 +128,4 @@ Equivalent checks were used for `MedType` (column D) and `IntendedUse` (column E
 | Batch identifiers | Validated as unique |
 | Cross-batch attributes | Reviewed for consistency |
 
-The raw workbook should remain unchanged. The V1.1 workbook is the cleaned and analysis-ready version.
+The raw workbook should remain unchanged. The massaged workbook is the cleaned and analysis-ready version.
