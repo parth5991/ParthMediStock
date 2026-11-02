@@ -69,42 +69,12 @@ The Excel analysis workbook contains these worksheets:
 
 The stock-status PivotTable counts 30 medicines as In Stock, 15 as Low Stock and 5 as Out of Stock.
 
-## Project documentation
+## Dataset documentation
 
 - [Data Cleaning Methodology](docs/data-cleaning-methodology.md)
 - [Calculated Fields and Excel Formulas](docs/calculated-fields-and-formulas.md)
 - [PivotTable Analysis](docs/pivot-table-analysis.md)
 - [Inventory Summary and Metric Definitions](docs/inventory-summary-and-metric-definitions.md)
-
-## Suggested repository structure
-
-```text
-ParthMediStock/
-├── README.md
-├── data/
-│   ├── raw/
-│   │   └── ParthMediStock_Inventory_V1.0.xlsx
-│   └── processed/
-│       └── ParthMediStock_Inventory_V1.1.xlsx
-└── docs/
-    ├── data-cleaning-methodology.md
-    ├── calculated-fields-and-formulas.md
-    ├── pivot-table-analysis.md
-    └── inventory-summary-and-metric-definitions.md
-```
-
-Keep the original V1.0 workbook unchanged in `data/raw/`. Place the cleaned workbook with the Inventory Summary and PivotTables in `data/processed/`. The filenames above are suggested repository names; use the exact workbook files you have.
-
-## Project progress
-
-| Stage | Work | Status |
-|---|---|---|
-| 1 | Business problem and scope | Completed |
-| 2 | Dataset structure and field definitions | Completed |
-| 3 | Dataset creation and cleaning | Completed |
-| 4 | Excel calculated fields, summary metrics and PivotTables | Completed |
-| 5 | Power BI dashboard | Next |
-| 6 | SQL analysis and final project documentation | Planned |
 
 ## Notes and assumptions
 
