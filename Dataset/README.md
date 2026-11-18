@@ -110,19 +110,6 @@ The SQL scripts and their descriptions are available in the [SQL folder](SQL/REA
 
 The stock-status analysis counts 30 medicines as In Stock, 15 as Low Stock and 5 as Out of Stock.
 
-## Project documentation
-
-### Excel documentation
-
-- [Data Cleaning Methodology](Dataset/Documentation/data-cleaning-methodology.md)
-- [Calculated Fields and Excel Formulas](Dataset/Documentation/calculated-fields-and-formulas.md)
-- [PivotTable Analysis](Dataset/Documentation/pivot-table-analysis.md)
-- [Inventory Summary and Metric Definitions](Dataset/Documentation/inventory-summary-and-metric-definitions.md)
-
-### SQL documentation
-
-[SQL Queries and Database Documentation](Dataset/SQL%20Queries/README.md)
-
 ## Version History
 
 | Version | Updates |
