@@ -1,0 +1,151 @@
+﻿MedID,MedName,Manufacturer,MedType,IntendedUse,PrescriptionNeeded,UnitCost,SellPrice,ReorderLvl,BatchNum,ExpDate,QtyStock,TotalInventoryCost,TotalRetailValue,GrossProfitPerUnit,GrossMargin%,ExpiryStatus,PotentialExpiryLoss,UsableStock,StockStatus
+MED-001,ParthCure01,ParthCureHome,Syrup,Bacterial Infection,No,₹ 217.00,₹ 273.01,41,BCH-26-001,11-Dec-26,3,₹ 651.00,₹ 819.03,₹ 56.01,20.52%,Soon,₹ 651.00,₹ 64.00,In Stock
+MED-001,ParthCure01,ParthCureHome,Syrup,Bacterial Infection,No,₹ 217.00,₹ 273.01,41,BCH-26-002,31-Oct-26,34,"₹ 7,378.00","₹ 9,282.34",₹ 56.01,20.52%,Soon,"₹ 7,378.00",₹ 64.00,In Stock
+MED-001,ParthCure01,ParthCureHome,Syrup,Bacterial Infection,No,₹ 217.00,₹ 273.01,41,BCH-26-003,25-Jun-28,27,"₹ 5,859.00","₹ 7,371.27",₹ 56.01,20.52%,Safe,₹ 0.00,₹ 64.00,In Stock
+MED-002,ParthCure02,PixieMeds,Injection,Vomiting,Yes,₹ 171.00,₹ 216.69,60,BCH-26-004,02-Oct-27,83,"₹ 14,193.00","₹ 17,985.27",₹ 45.69,21.09%,Safe,₹ 0.00,₹ 107.00,In Stock
+MED-002,ParthCure02,PixieMeds,Injection,Vomiting,Yes,₹ 171.00,₹ 216.69,60,BCH-26-005,25-Jan-27,19,"₹ 3,249.00","₹ 4,117.11",₹ 45.69,21.09%,Soon,"₹ 3,249.00",₹ 107.00,In Stock
+MED-002,ParthCure02,PixieMeds,Injection,Vomiting,Yes,₹ 171.00,₹ 216.69,60,BCH-26-006,05-Jul-27,5,₹ 855.00,"₹ 1,083.45",₹ 45.69,21.09%,Safe,₹ 0.00,₹ 107.00,In Stock
+MED-003,ParthCure03,PixieHome,Syrup,Vomiting,Yes,₹ 147.00,₹ 195.42,36,BCH-26-007,17-Jan-28,27,"₹ 3,969.00","₹ 5,276.34",₹ 48.42,24.78%,Safe,₹ 0.00,₹ 103.00,In Stock
+MED-003,ParthCure03,PixieHome,Syrup,Vomiting,Yes,₹ 147.00,₹ 195.42,36,BCH-26-008,09-Apr-27,50,"₹ 7,350.00","₹ 9,771.00",₹ 48.42,24.78%,Safe,₹ 0.00,₹ 103.00,In Stock
+MED-003,ParthCure03,PixieHome,Syrup,Vomiting,Yes,₹ 147.00,₹ 195.42,36,BCH-26-009,31-May-27,26,"₹ 3,822.00","₹ 5,080.92",₹ 48.42,24.78%,Safe,₹ 0.00,₹ 103.00,In Stock
+MED-004,ParthCure04,ParthCureHome,Capsule,Cough,No,₹ 104.00,₹ 123.66,32,BCH-26-010,03-Nov-26,4,₹ 416.00,₹ 494.64,₹ 19.66,15.90%,Soon,₹ 416.00,₹ 40.00,In Stock
+MED-004,ParthCure04,ParthCureHome,Capsule,Cough,No,₹ 104.00,₹ 123.66,32,BCH-26-011,19-Dec-26,34,"₹ 3,536.00","₹ 4,204.44",₹ 19.66,15.90%,Soon,"₹ 3,536.00",₹ 40.00,In Stock
+MED-004,ParthCure04,ParthCureHome,Capsule,Cough,No,₹ 104.00,₹ 123.66,32,BCH-26-012,13-Dec-26,2,₹ 208.00,₹ 247.32,₹ 19.66,15.90%,Soon,₹ 208.00,₹ 40.00,In Stock
+MED-005,ParthCure05,SecurHealth,Tablet,Fever,Yes,₹ 227.00,₹ 284.60,35,BCH-26-013,17-Oct-28,3,₹ 681.00,₹ 853.80,₹ 57.60,20.24%,Safe,₹ 0.00,₹ 70.00,In Stock
+MED-005,ParthCure05,SecurHealth,Tablet,Fever,Yes,₹ 227.00,₹ 284.60,35,BCH-26-014,03-Jul-26,12,"₹ 2,724.00","₹ 3,415.20",₹ 57.60,20.24%,Expired,"₹ 2,724.00",₹ 70.00,In Stock
+MED-005,ParthCure05,SecurHealth,Tablet,Fever,Yes,₹ 227.00,₹ 284.60,35,BCH-26-015,05-Dec-26,67,"₹ 15,209.00","₹ 19,068.20",₹ 57.60,20.24%,Soon,"₹ 15,209.00",₹ 70.00,In Stock
+MED-006,ParthCure06,PixieHome,Ointment,Acidity,Yes,₹ 284.00,₹ 355.97,72,BCH-26-016,17-Nov-26,1,₹ 284.00,₹ 355.97,₹ 71.97,20.22%,Soon,₹ 284.00,₹ 133.00,In Stock
+MED-006,ParthCure06,PixieHome,Ointment,Acidity,Yes,₹ 284.00,₹ 355.97,72,BCH-26-017,16-Nov-27,25,"₹ 7,100.00","₹ 8,899.25",₹ 71.97,20.22%,Safe,₹ 0.00,₹ 133.00,In Stock
+MED-006,ParthCure06,PixieHome,Ointment,Acidity,Yes,₹ 284.00,₹ 355.97,72,BCH-26-018,17-Nov-26,107,"₹ 30,388.00","₹ 38,088.79",₹ 71.97,20.22%,Soon,"₹ 30,388.00",₹ 133.00,In Stock
+MED-007,ParthCure07,PrayagCure,Capsule,Vomiting,No,₹ 88.00,₹ 112.54,42,BCH-26-019,29-May-28,3,₹ 264.00,₹ 337.62,₹ 24.54,21.81%,Safe,₹ 0.00,₹ 27.00,Low Stock
+MED-007,ParthCure07,PrayagCure,Capsule,Vomiting,No,₹ 88.00,₹ 112.54,42,BCH-26-020,08-Sep-25,20,"₹ 1,760.00","₹ 2,250.80",₹ 24.54,21.81%,Expired,"₹ 1,760.00",₹ 27.00,Low Stock
+MED-007,ParthCure07,PrayagCure,Capsule,Vomiting,No,₹ 88.00,₹ 112.54,42,BCH-26-021,14-Nov-26,24,"₹ 2,112.00","₹ 2,700.96",₹ 24.54,21.81%,Soon,"₹ 2,112.00",₹ 27.00,Low Stock
+MED-008,ParthCure08,ParthCureHome,Ointment,Fever,No,₹ 198.00,₹ 228.29,67,BCH-26-022,18-Dec-26,5,₹ 990.00,"₹ 1,141.45",₹ 30.29,13.27%,Soon,₹ 990.00,₹ 187.00,In Stock
+MED-008,ParthCure08,ParthCureHome,Ointment,Fever,No,₹ 198.00,₹ 228.29,67,BCH-26-023,25-Aug-27,139,"₹ 27,522.00","₹ 31,732.31",₹ 30.29,13.27%,Safe,₹ 0.00,₹ 187.00,In Stock
+MED-008,ParthCure08,ParthCureHome,Ointment,Fever,No,₹ 198.00,₹ 228.29,67,BCH-26-024,30-Oct-26,43,"₹ 8,514.00","₹ 9,816.47",₹ 30.29,13.27%,Soon,"₹ 8,514.00",₹ 187.00,In Stock
+MED-009,ParthCure09,PrayagCure,Injection,Bacterial Infection,No,₹ 156.00,₹ 203.91,33,BCH-26-025,08-Apr-26,13,"₹ 2,028.00","₹ 2,650.83",₹ 47.91,23.50%,Expired,"₹ 2,028.00",₹ 31.00,Low Stock
+MED-009,ParthCure09,PrayagCure,Injection,Bacterial Infection,No,₹ 156.00,₹ 203.91,33,BCH-26-026,14-Mar-27,6,₹ 936.00,"₹ 1,223.46",₹ 47.91,23.50%,Safe,₹ 0.00,₹ 31.00,Low Stock
+MED-009,ParthCure09,PrayagCure,Injection,Bacterial Infection,No,₹ 156.00,₹ 203.91,33,BCH-26-027,24-May-28,25,"₹ 3,900.00","₹ 5,097.75",₹ 47.91,23.50%,Safe,₹ 0.00,₹ 31.00,Low Stock
+MED-010,ParthCure10,PrayagCure,Capsule,Acidity,Yes,₹ 209.00,₹ 252.12,50,BCH-26-028,23-Feb-26,14,"₹ 2,926.00","₹ 3,529.68",₹ 43.12,17.10%,Expired,"₹ 2,926.00",₹ 143.00,In Stock
+MED-010,ParthCure10,PrayagCure,Capsule,Acidity,Yes,₹ 209.00,₹ 252.12,50,BCH-26-029,24-Jan-27,5,"₹ 1,045.00","₹ 1,260.60",₹ 43.12,17.10%,Soon,"₹ 1,045.00",₹ 143.00,In Stock
+MED-010,ParthCure10,PrayagCure,Capsule,Acidity,Yes,₹ 209.00,₹ 252.12,50,BCH-26-030,09-May-27,138,"₹ 28,842.00","₹ 34,792.56",₹ 43.12,17.10%,Safe,₹ 0.00,₹ 143.00,In Stock
+MED-011,ParthCure11,ParthCureHome,Tablet,Cough,No,₹ 136.00,₹ 175.04,21,BCH-26-031,10-Jun-27,15,"₹ 2,040.00","₹ 2,625.60",₹ 39.04,22.30%,Safe,₹ 0.00,₹ 44.00,In Stock
+MED-011,ParthCure11,ParthCureHome,Tablet,Cough,No,₹ 136.00,₹ 175.04,21,BCH-26-032,26-Nov-26,5,₹ 680.00,₹ 875.20,₹ 39.04,22.30%,Soon,₹ 680.00,₹ 44.00,In Stock
+MED-011,ParthCure11,ParthCureHome,Tablet,Cough,No,₹ 136.00,₹ 175.04,21,BCH-26-033,06-Apr-28,24,"₹ 3,264.00","₹ 4,200.96",₹ 39.04,22.30%,Safe,₹ 0.00,₹ 44.00,In Stock
+MED-012,ParthCure12,PixieMeds,Injection,Pain Relief,Yes,₹ 159.00,₹ 208.42,74,BCH-26-034,27-Aug-25,30,"₹ 4,770.00","₹ 6,252.60",₹ 49.42,23.71%,Expired,"₹ 4,770.00",₹ 130.00,In Stock
+MED-012,ParthCure12,PixieMeds,Injection,Pain Relief,Yes,₹ 159.00,₹ 208.42,74,BCH-26-035,07-Dec-26,18,"₹ 2,862.00","₹ 3,751.56",₹ 49.42,23.71%,Soon,"₹ 2,862.00",₹ 130.00,In Stock
+MED-012,ParthCure12,PixieMeds,Injection,Pain Relief,Yes,₹ 159.00,₹ 208.42,74,BCH-26-036,26-Feb-27,112,"₹ 17,808.00","₹ 23,343.04",₹ 49.42,23.71%,Safe,₹ 0.00,₹ 130.00,In Stock
+MED-013,ParthCure13,PrayagCure,Injection,Bacterial Infection,Yes,₹ 321.00,₹ 432.39,58,BCH-26-037,22-Feb-28,25,"₹ 8,025.00","₹ 10,809.75",₹ 111.39,25.76%,Safe,₹ 0.00,₹ 90.00,In Stock
+MED-013,ParthCure13,PrayagCure,Injection,Bacterial Infection,Yes,₹ 321.00,₹ 432.39,58,BCH-26-038,04-Sep-28,48,"₹ 15,408.00","₹ 20,754.72",₹ 111.39,25.76%,Safe,₹ 0.00,₹ 90.00,In Stock
+MED-013,ParthCure13,PrayagCure,Injection,Bacterial Infection,Yes,₹ 321.00,₹ 432.39,58,BCH-26-039,10-Nov-26,17,"₹ 5,457.00","₹ 7,350.63",₹ 111.39,25.76%,Soon,"₹ 5,457.00",₹ 90.00,In Stock
+MED-014,ParthCure14,NovaMeds,Ointment,Allergy,No,₹ 129.00,₹ 164.36,63,BCH-26-040,12-Dec-27,73,"₹ 9,417.00","₹ 11,998.28",₹ 35.36,21.51%,Safe,₹ 0.00,₹ 86.00,In Stock
+MED-014,ParthCure14,NovaMeds,Ointment,Allergy,No,₹ 129.00,₹ 164.36,63,BCH-26-041,11-Oct-26,26,"₹ 3,354.00","₹ 4,273.36",₹ 35.36,21.51%,Expired,"₹ 3,354.00",₹ 86.00,In Stock
+MED-014,ParthCure14,NovaMeds,Ointment,Allergy,No,₹ 129.00,₹ 164.36,63,BCH-26-042,29-Feb-28,13,"₹ 1,677.00","₹ 2,136.68",₹ 35.36,21.51%,Safe,₹ 0.00,₹ 86.00,In Stock
+MED-015,ParthCure15,PixieMeds,Tablet,Acidity,Yes,₹ 267.00,₹ 356.25,74,BCH-26-043,05-Dec-26,11,"₹ 2,937.00","₹ 3,918.75",₹ 89.25,25.05%,Soon,"₹ 2,937.00",₹ 212.00,In Stock
+MED-015,ParthCure15,PixieMeds,Tablet,Acidity,Yes,₹ 267.00,₹ 356.25,74,BCH-26-044,21-Dec-26,144,"₹ 38,448.00","₹ 51,300.00",₹ 89.25,25.05%,Soon,"₹ 38,448.00",₹ 212.00,In Stock
+MED-015,ParthCure15,PixieMeds,Tablet,Acidity,Yes,₹ 267.00,₹ 356.25,74,BCH-26-045,17-Jun-27,57,"₹ 15,219.00","₹ 20,306.25",₹ 89.25,25.05%,Safe,₹ 0.00,₹ 212.00,In Stock
+MED-016,ParthCure16,PixieHome,Capsule,Acidity,No,₹ 285.00,₹ 353.69,44,BCH-26-046,15-Dec-26,8,"₹ 2,280.00","₹ 2,829.52",₹ 68.69,19.42%,Soon,"₹ 2,280.00",₹ 22.00,Low Stock
+MED-016,ParthCure16,PixieHome,Capsule,Acidity,No,₹ 285.00,₹ 353.69,44,BCH-26-047,20-Oct-27,14,"₹ 3,990.00","₹ 4,951.66",₹ 68.69,19.42%,Safe,₹ 0.00,₹ 22.00,Low Stock
+MED-016,ParthCure16,PixieHome,Capsule,Acidity,No,₹ 285.00,₹ 353.69,44,BCH-26-048,04-Mar-26,29,"₹ 8,265.00","₹ 10,257.01",₹ 68.69,19.42%,Expired,"₹ 8,265.00",₹ 22.00,Low Stock
+MED-017,ParthCure17,SecurHealth,Syrup,Pain Relief,Yes,₹ 35.00,₹ 42.56,69,BCH-26-049,10-Aug-25,32,"₹ 1,120.00","₹ 1,361.92",₹ 7.56,17.76%,Expired,"₹ 1,120.00",₹ 0.00,Out of Stock
+MED-017,ParthCure17,SecurHealth,Syrup,Pain Relief,Yes,₹ 35.00,₹ 42.56,69,BCH-26-050,08-Jan-27,0,₹ 0.00,₹ 0.00,₹ 7.56,17.76%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-017,ParthCure17,SecurHealth,Syrup,Pain Relief,Yes,₹ 35.00,₹ 42.56,69,BCH-26-051,08-Jul-27,0,₹ 0.00,₹ 0.00,₹ 7.56,17.76%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-018,ParthCure18,NovaMeds,Syrup,Fever,Yes,₹ 143.00,₹ 164.58,66,BCH-26-052,17-Dec-26,0,₹ 0.00,₹ 0.00,₹ 21.58,13.11%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-018,ParthCure18,NovaMeds,Syrup,Fever,Yes,₹ 143.00,₹ 164.58,66,BCH-26-053,22-Dec-26,0,₹ 0.00,₹ 0.00,₹ 21.58,13.11%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-018,ParthCure18,NovaMeds,Syrup,Fever,Yes,₹ 143.00,₹ 164.58,66,BCH-26-054,19-Aug-28,0,₹ 0.00,₹ 0.00,₹ 21.58,13.11%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-019,ParthCure19,NovaMeds,Tablet,Vomiting,No,₹ 247.00,₹ 285.27,59,BCH-26-055,16-Oct-28,25,"₹ 6,175.00","₹ 7,131.75",₹ 38.27,13.42%,Safe,₹ 0.00,₹ 82.00,In Stock
+MED-019,ParthCure19,NovaMeds,Tablet,Vomiting,No,₹ 247.00,₹ 285.27,59,BCH-26-056,20-Nov-26,45,"₹ 11,115.00","₹ 12,837.15",₹ 38.27,13.42%,Soon,"₹ 11,115.00",₹ 82.00,In Stock
+MED-019,ParthCure19,NovaMeds,Tablet,Vomiting,No,₹ 247.00,₹ 285.27,59,BCH-26-057,21-Nov-26,12,"₹ 2,964.00","₹ 3,423.24",₹ 38.27,13.42%,Soon,"₹ 2,964.00",₹ 82.00,In Stock
+MED-020,ParthCure20,ParthCureHome,Capsule,Cough,No,₹ 91.00,₹ 115.03,71,BCH-26-058,22-Jan-27,8,₹ 728.00,₹ 920.24,₹ 24.03,20.89%,Soon,₹ 728.00,₹ 20.00,Low Stock
+MED-020,ParthCure20,ParthCureHome,Capsule,Cough,No,₹ 91.00,₹ 115.03,71,BCH-26-059,03-Jan-27,12,"₹ 1,092.00","₹ 1,380.36",₹ 24.03,20.89%,Soon,"₹ 1,092.00",₹ 20.00,Low Stock
+MED-020,ParthCure20,ParthCureHome,Capsule,Cough,No,₹ 91.00,₹ 115.03,71,BCH-26-060,24-Mar-28,0,₹ 0.00,₹ 0.00,₹ 24.03,20.89%,Safe,₹ 0.00,₹ 20.00,Low Stock
+MED-021,ParthCure21,PixieHome,Ointment,Bacterial Infection,Yes,₹ 102.00,₹ 135.12,26,BCH-26-061,15-Jan-27,18,"₹ 1,836.00","₹ 2,432.16",₹ 33.12,24.51%,Soon,"₹ 1,836.00",₹ 72.00,In Stock
+MED-021,ParthCure21,PixieHome,Ointment,Bacterial Infection,Yes,₹ 102.00,₹ 135.12,26,BCH-26-062,07-Jan-27,53,"₹ 5,406.00","₹ 7,161.36",₹ 33.12,24.51%,Soon,"₹ 5,406.00",₹ 72.00,In Stock
+MED-021,ParthCure21,PixieHome,Ointment,Bacterial Infection,Yes,₹ 102.00,₹ 135.12,26,BCH-26-063,05-Jan-27,1,₹ 102.00,₹ 135.12,₹ 33.12,24.51%,Soon,₹ 102.00,₹ 72.00,In Stock
+MED-022,ParthCure22,PrayagCure,Syrup,Allergy,No,₹ 111.00,₹ 139.80,22,BCH-26-064,15-Jan-27,4,₹ 444.00,₹ 559.20,₹ 28.80,20.60%,Soon,₹ 444.00,₹ 46.00,In Stock
+MED-022,ParthCure22,PrayagCure,Syrup,Allergy,No,₹ 111.00,₹ 139.80,22,BCH-26-065,21-Oct-27,42,"₹ 4,662.00","₹ 5,871.60",₹ 28.80,20.60%,Safe,₹ 0.00,₹ 46.00,In Stock
+MED-022,ParthCure22,PrayagCure,Syrup,Allergy,No,₹ 111.00,₹ 139.80,22,BCH-26-066,16-Sep-25,34,"₹ 3,774.00","₹ 4,753.20",₹ 28.80,20.60%,Expired,"₹ 3,774.00",₹ 46.00,In Stock
+MED-023,ParthCure23,SecurHealth,Injection,Bacterial Infection,No,₹ 156.00,₹ 200.96,71,BCH-26-067,19-Nov-26,62,"₹ 9,672.00","₹ 12,459.52",₹ 44.96,22.37%,Soon,"₹ 9,672.00",₹ 118.00,In Stock
+MED-023,ParthCure23,SecurHealth,Injection,Bacterial Infection,No,₹ 156.00,₹ 200.96,71,BCH-26-068,08-Jul-27,24,"₹ 3,744.00","₹ 4,823.04",₹ 44.96,22.37%,Safe,₹ 0.00,₹ 118.00,In Stock
+MED-023,ParthCure23,SecurHealth,Injection,Bacterial Infection,No,₹ 156.00,₹ 200.96,71,BCH-26-069,01-Mar-27,32,"₹ 4,992.00","₹ 6,430.72",₹ 44.96,22.37%,Safe,₹ 0.00,₹ 118.00,In Stock
+MED-024,ParthCure24,SecurHealth,Ointment,Cough,Yes,₹ 289.00,₹ 363.20,32,BCH-26-070,25-Aug-28,11,"₹ 3,179.00","₹ 3,995.20",₹ 74.20,20.43%,Safe,₹ 0.00,₹ 15.00,Low Stock
+MED-024,ParthCure24,SecurHealth,Ointment,Cough,Yes,₹ 289.00,₹ 363.20,32,BCH-26-071,26-Nov-26,1,₹ 289.00,₹ 363.20,₹ 74.20,20.43%,Soon,₹ 289.00,₹ 15.00,Low Stock
+MED-024,ParthCure24,SecurHealth,Ointment,Cough,Yes,₹ 289.00,₹ 363.20,32,BCH-26-072,09-Dec-26,3,₹ 867.00,"₹ 1,089.60",₹ 74.20,20.43%,Soon,₹ 867.00,₹ 15.00,Low Stock
+MED-025,ParthCure25,SecurHealth,Injection,Acidity,No,₹ 357.00,₹ 428.33,70,BCH-26-073,04-Jan-27,43,"₹ 15,351.00","₹ 18,418.19",₹ 71.33,16.65%,Soon,"₹ 15,351.00",₹ 134.00,In Stock
+MED-025,ParthCure25,SecurHealth,Injection,Acidity,No,₹ 357.00,₹ 428.33,70,BCH-26-074,12-Jan-27,18,"₹ 6,426.00","₹ 7,709.94",₹ 71.33,16.65%,Soon,"₹ 6,426.00",₹ 134.00,In Stock
+MED-025,ParthCure25,SecurHealth,Injection,Acidity,No,₹ 357.00,₹ 428.33,70,BCH-26-075,18-Sep-27,73,"₹ 26,061.00","₹ 31,268.09",₹ 71.33,16.65%,Safe,₹ 0.00,₹ 134.00,In Stock
+MED-026,ParthCure26,PixieMeds,Injection,Allergy,Yes,₹ 318.00,₹ 443.37,44,BCH-26-076,29-Jul-27,25,"₹ 7,950.00","₹ 11,084.25",₹ 125.37,28.28%,Safe,₹ 0.00,₹ 75.00,In Stock
+MED-026,ParthCure26,PixieMeds,Injection,Allergy,Yes,₹ 318.00,₹ 443.37,44,BCH-26-077,25-Sep-28,49,"₹ 15,582.00","₹ 21,725.13",₹ 125.37,28.28%,Safe,₹ 0.00,₹ 75.00,In Stock
+MED-026,ParthCure26,PixieMeds,Injection,Allergy,Yes,₹ 318.00,₹ 443.37,44,BCH-26-078,07-Dec-26,1,₹ 318.00,₹ 443.37,₹ 125.37,28.28%,Soon,₹ 318.00,₹ 75.00,In Stock
+MED-027,ParthCure27,ParthCureHome,Capsule,Pain Relief,No,₹ 325.00,₹ 399.73,41,BCH-26-079,17-May-27,2,₹ 650.00,₹ 799.46,₹ 74.73,18.70%,Safe,₹ 0.00,₹ 6.00,Low Stock
+MED-027,ParthCure27,ParthCureHome,Capsule,Pain Relief,No,₹ 325.00,₹ 399.73,41,BCH-26-080,01-Mar-27,1,₹ 325.00,₹ 399.73,₹ 74.73,18.70%,Safe,₹ 0.00,₹ 6.00,Low Stock
+MED-027,ParthCure27,ParthCureHome,Capsule,Pain Relief,No,₹ 325.00,₹ 399.73,41,BCH-26-081,28-Dec-27,3,₹ 975.00,"₹ 1,199.19",₹ 74.73,18.70%,Safe,₹ 0.00,₹ 6.00,Low Stock
+MED-028,ParthCure28,PixieMeds,Syrup,Cough,No,₹ 61.00,₹ 83.08,33,BCH-26-082,17-Jan-27,14,₹ 854.00,"₹ 1,163.12",₹ 22.08,26.58%,Soon,₹ 854.00,₹ 56.00,In Stock
+MED-028,ParthCure28,PixieMeds,Syrup,Cough,No,₹ 61.00,₹ 83.08,33,BCH-26-083,13-Jan-27,22,"₹ 1,342.00","₹ 1,827.76",₹ 22.08,26.58%,Soon,"₹ 1,342.00",₹ 56.00,In Stock
+MED-028,ParthCure28,PixieMeds,Syrup,Cough,No,₹ 61.00,₹ 83.08,33,BCH-26-084,04-Dec-26,20,"₹ 1,220.00","₹ 1,661.60",₹ 22.08,26.58%,Soon,"₹ 1,220.00",₹ 56.00,In Stock
+MED-029,ParthCure29,SecurHealth,Ointment,Acidity,No,₹ 112.00,₹ 151.71,27,BCH-26-085,26-Jan-27,6,₹ 672.00,₹ 910.26,₹ 39.71,26.17%,Soon,₹ 672.00,₹ 80.00,In Stock
+MED-029,ParthCure29,SecurHealth,Ointment,Acidity,No,₹ 112.00,₹ 151.71,27,BCH-26-086,02-Jan-27,12,"₹ 1,344.00","₹ 1,820.52",₹ 39.71,26.17%,Soon,"₹ 1,344.00",₹ 80.00,In Stock
+MED-029,ParthCure29,SecurHealth,Ointment,Acidity,No,₹ 112.00,₹ 151.71,27,BCH-26-087,13-Aug-28,62,"₹ 6,944.00","₹ 9,406.02",₹ 39.71,26.17%,Safe,₹ 0.00,₹ 80.00,In Stock
+MED-030,ParthCure30,PixieMeds,Injection,Pain Relief,Yes,₹ 358.00,₹ 485.83,33,BCH-26-088,16-Dec-26,4,"₹ 1,432.00","₹ 1,943.32",₹ 127.83,26.31%,Soon,"₹ 1,432.00",₹ 8.00,Low Stock
+MED-030,ParthCure30,PixieMeds,Injection,Pain Relief,Yes,₹ 358.00,₹ 485.83,33,BCH-26-089,31-Oct-25,30,"₹ 10,740.00","₹ 14,574.90",₹ 127.83,26.31%,Expired,"₹ 10,740.00",₹ 8.00,Low Stock
+MED-030,ParthCure30,PixieMeds,Injection,Pain Relief,Yes,₹ 358.00,₹ 485.83,33,BCH-26-090,27-Jul-27,4,"₹ 1,432.00","₹ 1,943.32",₹ 127.83,26.31%,Safe,₹ 0.00,₹ 8.00,Low Stock
+MED-031,ParthCure31,PixieMeds,Tablet,Fever,No,₹ 181.00,₹ 229.22,72,BCH-26-091,23-Nov-26,67,"₹ 12,127.00","₹ 15,357.74",₹ 48.22,21.04%,Soon,"₹ 12,127.00",₹ 102.00,In Stock
+MED-031,ParthCure31,PixieMeds,Tablet,Fever,No,₹ 181.00,₹ 229.22,72,BCH-26-092,20-Jan-27,6,"₹ 1,086.00","₹ 1,375.32",₹ 48.22,21.04%,Soon,"₹ 1,086.00",₹ 102.00,In Stock
+MED-031,ParthCure31,PixieMeds,Tablet,Fever,No,₹ 181.00,₹ 229.22,72,BCH-26-093,25-Apr-27,29,"₹ 5,249.00","₹ 6,647.38",₹ 48.22,21.04%,Safe,₹ 0.00,₹ 102.00,In Stock
+MED-032,ParthCure32,SecurHealth,Tablet,Allergy,Yes,₹ 82.00,₹ 109.50,30,BCH-26-094,01-Dec-26,3,₹ 246.00,₹ 328.50,₹ 27.50,25.11%,Soon,₹ 246.00,₹ 5.00,Low Stock
+MED-032,ParthCure32,SecurHealth,Tablet,Allergy,Yes,₹ 82.00,₹ 109.50,30,BCH-26-095,06-Dec-26,0,₹ 0.00,₹ 0.00,₹ 27.50,25.11%,Soon,₹ 0.00,₹ 5.00,Low Stock
+MED-032,ParthCure32,SecurHealth,Tablet,Allergy,Yes,₹ 82.00,₹ 109.50,30,BCH-26-096,03-Nov-26,2,₹ 164.00,₹ 219.00,₹ 27.50,25.11%,Soon,₹ 164.00,₹ 5.00,Low Stock
+MED-033,ParthCure33,PixieHome,Tablet,Allergy,Yes,₹ 282.00,₹ 385.88,55,BCH-26-097,03-Aug-28,23,"₹ 6,486.00","₹ 8,875.24",₹ 103.88,26.92%,Safe,₹ 0.00,₹ 69.00,In Stock
+MED-033,ParthCure33,PixieHome,Tablet,Allergy,Yes,₹ 282.00,₹ 385.88,55,BCH-26-098,23-Jan-26,29,"₹ 8,178.00","₹ 11,190.52",₹ 103.88,26.92%,Expired,"₹ 8,178.00",₹ 69.00,In Stock
+MED-033,ParthCure33,PixieHome,Tablet,Allergy,Yes,₹ 282.00,₹ 385.88,55,BCH-26-099,01-Nov-27,46,"₹ 12,972.00","₹ 17,750.48",₹ 103.88,26.92%,Safe,₹ 0.00,₹ 69.00,In Stock
+MED-034,ParthCure34,ParthCureHome,Ointment,Pain Relief,Yes,₹ 204.00,₹ 251.77,24,BCH-26-100,22-Jan-27,14,"₹ 2,856.00","₹ 3,524.78",₹ 47.77,18.97%,Soon,"₹ 2,856.00",₹ 28.00,In Stock
+MED-034,ParthCure34,ParthCureHome,Ointment,Pain Relief,Yes,₹ 204.00,₹ 251.77,24,BCH-26-101,01-Sep-28,1,₹ 204.00,₹ 251.77,₹ 47.77,18.97%,Safe,₹ 0.00,₹ 28.00,In Stock
+MED-034,ParthCure34,ParthCureHome,Ointment,Pain Relief,Yes,₹ 204.00,₹ 251.77,24,BCH-26-102,07-Feb-28,13,"₹ 2,652.00","₹ 3,273.01",₹ 47.77,18.97%,Safe,₹ 0.00,₹ 28.00,In Stock
+MED-035,ParthCure35,PixieMeds,Ointment,Fever,Yes,₹ 179.00,₹ 220.54,64,BCH-26-103,14-Oct-28,5,₹ 895.00,"₹ 1,102.70",₹ 41.54,18.84%,Safe,₹ 0.00,₹ 11.00,Low Stock
+MED-035,ParthCure35,PixieMeds,Ointment,Fever,Yes,₹ 179.00,₹ 220.54,64,BCH-26-104,01-Dec-26,6,"₹ 1,074.00","₹ 1,323.24",₹ 41.54,18.84%,Soon,"₹ 1,074.00",₹ 11.00,Low Stock
+MED-035,ParthCure35,PixieMeds,Ointment,Fever,Yes,₹ 179.00,₹ 220.54,64,BCH-26-105,16-Jan-26,31,"₹ 5,549.00","₹ 6,836.74",₹ 41.54,18.84%,Expired,"₹ 5,549.00",₹ 11.00,Low Stock
+MED-036,ParthCure36,ParthCureHome,Tablet,Allergy,Yes,₹ 355.00,₹ 467.55,41,BCH-26-106,22-Jan-27,6,"₹ 2,130.00","₹ 2,805.30",₹ 112.55,24.07%,Soon,"₹ 2,130.00",₹ 36.00,Low Stock
+MED-036,ParthCure36,ParthCureHome,Tablet,Allergy,Yes,₹ 355.00,₹ 467.55,41,BCH-26-107,10-Sep-28,3,"₹ 1,065.00","₹ 1,402.65",₹ 112.55,24.07%,Safe,₹ 0.00,₹ 36.00,Low Stock
+MED-036,ParthCure36,ParthCureHome,Tablet,Allergy,Yes,₹ 355.00,₹ 467.55,41,BCH-26-108,03-Nov-26,27,"₹ 9,585.00","₹ 12,623.85",₹ 112.55,24.07%,Soon,"₹ 9,585.00",₹ 36.00,Low Stock
+MED-037,ParthCure37,PixieHome,Injection,Acidity,Yes,₹ 357.00,₹ 431.54,25,BCH-26-109,28-Aug-28,0,₹ 0.00,₹ 0.00,₹ 74.54,17.27%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-037,ParthCure37,PixieHome,Injection,Acidity,Yes,₹ 357.00,₹ 431.54,25,BCH-26-110,,0,₹ 0.00,₹ 0.00,₹ 74.54,17.27%,Unknown,,₹ 0.00,Out of Stock
+MED-037,ParthCure37,PixieHome,Injection,Acidity,Yes,₹ 357.00,₹ 431.54,25,BCH-26-111,08-Feb-28,0,₹ 0.00,₹ 0.00,₹ 74.54,17.27%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-038,ParthCure38,NovaMeds,Capsule,Bacterial Infection,No,₹ 226.00,₹ 308.53,35,BCH-26-112,27-Dec-26,47,"₹ 10,622.00","₹ 14,500.91",₹ 82.53,26.75%,Soon,"₹ 10,622.00",₹ 92.00,In Stock
+MED-038,ParthCure38,NovaMeds,Capsule,Bacterial Infection,No,₹ 226.00,₹ 308.53,35,BCH-26-113,24-Dec-26,43,"₹ 9,718.00","₹ 13,266.79",₹ 82.53,26.75%,Soon,"₹ 9,718.00",₹ 92.00,In Stock
+MED-038,ParthCure38,NovaMeds,Capsule,Bacterial Infection,No,₹ 226.00,₹ 308.53,35,BCH-26-114,19-Dec-27,2,₹ 452.00,₹ 617.06,₹ 82.53,26.75%,Safe,₹ 0.00,₹ 92.00,In Stock
+MED-039,ParthCure39,SecurHealth,Syrup,Fever,No,₹ 57.00,₹ 79.40,49,BCH-26-115,01-May-26,30,"₹ 1,710.00","₹ 2,382.00",₹ 22.40,28.21%,Expired,"₹ 1,710.00",₹ 44.00,Low Stock
+MED-039,ParthCure39,SecurHealth,Syrup,Fever,No,₹ 57.00,₹ 79.40,49,BCH-26-116,03-Jan-28,6,₹ 342.00,₹ 476.40,₹ 22.40,28.21%,Safe,₹ 0.00,₹ 44.00,Low Stock
+MED-039,ParthCure39,SecurHealth,Syrup,Fever,No,₹ 57.00,₹ 79.40,49,BCH-26-117,04-Jun-27,38,"₹ 2,166.00","₹ 3,017.20",₹ 22.40,28.21%,Safe,₹ 0.00,₹ 44.00,Low Stock
+MED-040,ParthCure40,PixieHome,Syrup,Cough,No,₹ 40.00,₹ 55.07,52,BCH-26-118,31-Dec-26,17,₹ 680.00,₹ 936.19,₹ 15.07,27.37%,Soon,₹ 680.00,₹ 85.00,In Stock
+MED-040,ParthCure40,PixieHome,Syrup,Cough,No,₹ 40.00,₹ 55.07,52,BCH-26-119,02-Jan-27,0,₹ 0.00,₹ 0.00,₹ 15.07,27.37%,Soon,₹ 0.00,₹ 85.00,In Stock
+MED-040,ParthCure40,PixieHome,Syrup,Cough,No,₹ 40.00,₹ 55.07,52,BCH-26-120,03-Feb-27,68,"₹ 2,720.00","₹ 3,744.76",₹ 15.07,27.37%,Safe,₹ 0.00,₹ 85.00,In Stock
+MED-041,ParthCure41,PrayagCure,Tablet,Vomiting,Yes,₹ 263.00,₹ 322.09,59,BCH-26-121,08-Nov-26,0,₹ 0.00,₹ 0.00,₹ 59.09,18.35%,Soon,₹ 0.00,₹ 38.00,Low Stock
+MED-041,ParthCure41,PrayagCure,Tablet,Vomiting,Yes,₹ 263.00,₹ 322.09,59,BCH-26-122,05-Jun-28,2,₹ 526.00,₹ 644.18,₹ 59.09,18.35%,Safe,₹ 0.00,₹ 38.00,Low Stock
+MED-041,ParthCure41,PrayagCure,Tablet,Vomiting,Yes,₹ 263.00,₹ 322.09,59,BCH-26-123,07-Jan-27,36,"₹ 9,468.00","₹ 11,595.24",₹ 59.09,18.35%,Soon,"₹ 9,468.00",₹ 38.00,Low Stock
+MED-042,ParthCure42,NovaMeds,Capsule,Fever,No,₹ 125.00,₹ 156.58,20,BCH-26-124,01-Sep-28,3,₹ 375.00,₹ 469.74,₹ 31.58,20.17%,Safe,₹ 0.00,₹ 7.00,Low Stock
+MED-042,ParthCure42,NovaMeds,Capsule,Fever,No,₹ 125.00,₹ 156.58,20,BCH-26-125,17-Apr-28,2,₹ 250.00,₹ 313.16,₹ 31.58,20.17%,Safe,₹ 0.00,₹ 7.00,Low Stock
+MED-042,ParthCure42,NovaMeds,Capsule,Fever,No,₹ 125.00,₹ 156.58,20,BCH-26-126,06-Nov-26,2,₹ 250.00,₹ 313.16,₹ 31.58,20.17%,Soon,₹ 250.00,₹ 7.00,Low Stock
+MED-043,ParthCure43,NovaMeds,Syrup,Fever,No,₹ 279.00,₹ 369.93,24,BCH-26-127,30-Oct-26,0,₹ 0.00,₹ 0.00,₹ 90.93,24.58%,Soon,₹ 0.00,₹ 1.00,Low Stock
+MED-043,ParthCure43,NovaMeds,Syrup,Fever,No,₹ 279.00,₹ 369.93,24,BCH-26-128,08-Nov-26,1,₹ 279.00,₹ 369.93,₹ 90.93,24.58%,Soon,₹ 279.00,₹ 1.00,Low Stock
+MED-043,ParthCure43,NovaMeds,Syrup,Fever,No,₹ 279.00,₹ 369.93,24,BCH-26-129,19-Mar-26,16,"₹ 4,464.00","₹ 5,918.88",₹ 90.93,24.58%,Expired,"₹ 4,464.00",₹ 1.00,Low Stock
+MED-044,ParthCure44,NovaMeds,Injection,Vomiting,Yes,₹ 305.00,₹ 366.32,43,BCH-26-130,01-Jan-27,1,₹ 305.00,₹ 366.32,₹ 61.32,16.74%,Soon,₹ 305.00,₹ 119.00,In Stock
+MED-044,ParthCure44,NovaMeds,Injection,Vomiting,Yes,₹ 305.00,₹ 366.32,43,BCH-26-131,24-Dec-26,64,"₹ 19,520.00","₹ 23,444.48",₹ 61.32,16.74%,Soon,"₹ 19,520.00",₹ 119.00,In Stock
+MED-044,ParthCure44,NovaMeds,Injection,Vomiting,Yes,₹ 305.00,₹ 366.32,43,BCH-26-132,28-Jun-28,54,"₹ 16,470.00","₹ 19,781.28",₹ 61.32,16.74%,Safe,₹ 0.00,₹ 119.00,In Stock
+MED-045,ParthCure45,PixieHome,Syrup,Pain Relief,No,₹ 72.00,₹ 85.78,61,BCH-26-133,15-Nov-26,41,"₹ 2,952.00","₹ 3,516.98",₹ 13.78,16.06%,Soon,"₹ 2,952.00",₹ 119.00,In Stock
+MED-045,ParthCure45,PixieHome,Syrup,Pain Relief,No,₹ 72.00,₹ 85.78,61,BCH-26-134,08-Apr-26,5,₹ 360.00,₹ 428.90,₹ 13.78,16.06%,Expired,₹ 360.00,₹ 119.00,In Stock
+MED-045,ParthCure45,PixieHome,Syrup,Pain Relief,No,₹ 72.00,₹ 85.78,61,BCH-26-135,07-Nov-26,78,"₹ 5,616.00","₹ 6,690.84",₹ 13.78,16.06%,Soon,"₹ 5,616.00",₹ 119.00,In Stock
+MED-046,ParthCure46,PixieHome,Capsule,Pain Relief,No,₹ 21.00,₹ 26.78,73,BCH-26-136,07-May-28,92,"₹ 1,932.00","₹ 2,463.76",₹ 5.78,21.58%,Safe,₹ 0.00,₹ 163.00,In Stock
+MED-046,ParthCure46,PixieHome,Capsule,Pain Relief,No,₹ 21.00,₹ 26.78,73,BCH-26-137,23-Feb-28,36,₹ 756.00,₹ 964.08,₹ 5.78,21.58%,Safe,₹ 0.00,₹ 163.00,In Stock
+MED-046,ParthCure46,PixieHome,Capsule,Pain Relief,No,₹ 21.00,₹ 26.78,73,BCH-26-138,30-Sep-27,35,₹ 735.00,₹ 937.30,₹ 5.78,21.58%,Safe,₹ 0.00,₹ 163.00,In Stock
+MED-047,ParthCure47,NovaMeds,Capsule,Allergy,No,₹ 48.00,₹ 62.46,32,BCH-26-139,15-Jan-27,0,₹ 0.00,₹ 0.00,₹ 14.46,23.15%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-047,ParthCure47,NovaMeds,Capsule,Allergy,No,₹ 48.00,₹ 62.46,32,BCH-26-140,23-Jan-27,0,₹ 0.00,₹ 0.00,₹ 14.46,23.15%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-047,ParthCure47,NovaMeds,Capsule,Allergy,No,₹ 48.00,₹ 62.46,32,BCH-26-141,22-Apr-27,0,₹ 0.00,₹ 0.00,₹ 14.46,23.15%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-048,ParthCure48,ParthCureHome,Tablet,Bacterial Infection,No,₹ 273.00,₹ 347.35,58,BCH-26-142,15-May-27,17,"₹ 4,641.00","₹ 5,904.95",₹ 74.35,21.40%,Safe,₹ 0.00,₹ 63.00,In Stock
+MED-048,ParthCure48,ParthCureHome,Tablet,Bacterial Infection,No,₹ 273.00,₹ 347.35,58,BCH-26-143,07-Dec-26,33,"₹ 9,009.00","₹ 11,462.55",₹ 74.35,21.40%,Soon,"₹ 9,009.00",₹ 63.00,In Stock
+MED-048,ParthCure48,ParthCureHome,Tablet,Bacterial Infection,No,₹ 273.00,₹ 347.35,58,BCH-26-144,22-Dec-26,13,"₹ 3,549.00","₹ 4,515.55",₹ 74.35,21.40%,Soon,"₹ 3,549.00",₹ 63.00,In Stock
+MED-049,ParthCure49,PrayagCure,Ointment,Cough,Yes,₹ 246.00,₹ 296.11,49,BCH-26-145,23-Jan-27,0,₹ 0.00,₹ 0.00,₹ 50.11,16.92%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-049,ParthCure49,PrayagCure,Ointment,Cough,Yes,₹ 246.00,₹ 296.11,49,BCH-26-146,25-Dec-26,0,₹ 0.00,₹ 0.00,₹ 50.11,16.92%,Soon,₹ 0.00,₹ 0.00,Out of Stock
+MED-049,ParthCure49,PrayagCure,Ointment,Cough,Yes,₹ 246.00,₹ 296.11,49,BCH-26-147,23-Aug-28,0,₹ 0.00,₹ 0.00,₹ 50.11,16.92%,Safe,₹ 0.00,₹ 0.00,Out of Stock
+MED-050,ParthCure50,PrayagCure,Ointment,Vomiting,Yes,₹ 281.00,₹ 333.18,53,BCH-26-148,09-May-28,16,"₹ 4,496.00","₹ 5,330.88",₹ 52.18,15.66%,Safe,₹ 0.00,₹ 24.00,Low Stock
+MED-050,ParthCure50,PrayagCure,Ointment,Vomiting,Yes,₹ 281.00,₹ 333.18,53,BCH-26-149,01-Jan-27,7,"₹ 1,967.00","₹ 2,332.26",₹ 52.18,15.66%,Soon,"₹ 1,967.00",₹ 24.00,Low Stock
+MED-050,ParthCure50,PrayagCure,Ointment,Vomiting,Yes,₹ 281.00,₹ 333.18,53,BCH-26-150,02-Jun-27,1,₹ 281.00,₹ 333.18,₹ 52.18,15.66%,Safe,₹ 0.00,₹ 24.00,Low Stock
