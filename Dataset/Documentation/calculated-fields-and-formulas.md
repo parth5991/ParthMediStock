@@ -62,7 +62,7 @@ The `Inventory Summary` worksheet contains these metrics in cells A2:B8.
 
 | Cell | Metric | Formula in Value cell |
 |---|---|---|
-| B2 | Total Unique Medicines | `=SUMPRODUCT((Dataset!A2:A151<>"")/COUNTIF(Dataset!A2:A151,Dataset!A2:A151))` |
+| B2 | Total Unique Medicines | `=ROUND(SUMPRODUCT((Dataset!A2:A151<>"")/COUNTIF(Dataset!A2:A151,Dataset!A2:A151)),0)` |
 | B3 | Total Batch Records | `=COUNTA(Dataset!J2:J151)` |
 | B4 | Total Physical Stock Units | `=SUM(Dataset!L2:L151)` |
 | B5 | Total Usable Stock Units | `=SUMIFS(Dataset!L2:L151,Dataset!Q2:Q151,"Safe")+SUMIFS(Dataset!L2:L151,Dataset!Q2:Q151,"Soon")` |
