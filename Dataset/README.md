@@ -121,7 +121,15 @@ The stock-status analysis counts 30 medicines as In Stock, 15 as Low Stock and 5
 
 ### SQL documentation
 
-- [SQL Queries and Database Documentation](SQL/README.md)
+- [SQL Queries and Database Documentation](SQL Queries/README.md)
+
+## Version History
+
+| Version | Updates |
+|---|---|
+| v1.0 | Initial project setup, business problem definition, dataset structure and synthetic inventory dataset creation. |
+| v1.1 | Completed data cleaning, added calculated fields, created the Inventory Summary and completed 8 Excel PivotTables. Added Excel analysis documentation. |
+| v1.2 | Created the SQL Server database, designed the Medicines and InventoryBatches tables, imported and validated the cleaned dataset, and completed 16 SQL analysis queries. Added SQL scripts and documentation. |
 
 ## Notes and assumptions
 
