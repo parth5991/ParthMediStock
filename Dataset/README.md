@@ -121,7 +121,7 @@ The stock-status analysis counts 30 medicines as In Stock, 15 as Low Stock and 5
 
 ### SQL documentation
 
-[SQL Queries and Database Documentation](<SQL Queries/README.md>)
+[SQL Queries and Database Documentation](Dataset/SQL%20Queries/README.md)
 
 ## Version History
 
