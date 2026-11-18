@@ -1,6 +1,6 @@
 # ParthMediStock
 
-A pharmacy inventory analytics portfolio project built around a fictional retail pharmacy. The project uses Excel for dataset preparation, data cleaning, calculated inventory metrics and exploratory analysis. SQL and Power BI are planned for subsequent stages.
+A pharmacy inventory analytics portfolio project built around a fictional retail pharmacy. The project uses Excel for dataset preparation, data cleaning, calculated inventory metrics and exploratory analysis. SQL Server is used for database creation, data validation and inventory analysis. Power BI will be used in the next stage for dashboard creation and visualization.
 
 ## Project objective
 
@@ -14,6 +14,18 @@ The objective is to turn batch-level pharmacy inventory data into useful operati
 - Estimated gross profit and gross margin based on listed unit costs and selling prices.
 
 This is a fictional portfolio dataset. Medicine names and manufacturers are fictional, and intended-use categories are broad dataset labels only. The project is not medical advice and does not provide treatment recommendations.
+
+## Project progress
+
+| Stage | Description | Status |
+|---|---|---|
+| Stage 1 | Business Problem & Scope | Completed |
+| Stage 2 | Dataset Structure & Column Definitions | Completed |
+| Stage 3 | Dataset Creation | Completed |
+| Stage 4 | Data Cleaning & Excel Analysis | Completed |
+| Stage 5 | SQL Database & Analysis | Completed |
+| Stage 6 | Power BI Dashboard & Visualization | Pending |
+| Stage 7 | Business Insights & Recommendations | Pending |
 
 ## Dataset overview
 
@@ -38,7 +50,7 @@ The original source data contains 12 fields. Eight calculated fields were then a
 
 The calculated fields are `TotalInventoryCost`, `TotalRetailValue`, `GrossProfitPerUnit`, `GrossMargin%`, `ExpiryStatus`, `PotentialExpiryLoss`, `UsableStock` and `StockStatus`.
 
-## Excel work completed
+## Excel analysis completed
 
 The Excel analysis workbook contains these worksheets:
 
@@ -52,6 +64,35 @@ The Excel analysis workbook contains these worksheets:
 8. `Pivot - Prescription Analysis` — stock, value and distinct medicine count by prescription requirement.
 9. `Pivot - Intended Use` — medicine count, stock and value by intended-use category.
 10. `Pivot - Profit Analysis` — estimated gross profit and margin by medicine type.
+
+## SQL database and analysis
+
+The cleaned dataset was imported into Microsoft SQL Server using the Import Flat File Wizard.
+
+The database contains two main tables:
+
+**Medicines**
+- Stores medicine-level information such as manufacturer, medicine type, intended use, prices and reorder level.
+- Contains 50 unique medicine records.
+- `MedID` is the primary key.
+
+**InventoryBatches**
+- Stores batch number, medicine ID, expiry date and stock quantity.
+- Contains 150 batch records.
+- `BatchNum` is the primary key and `MedID` is the foreign key.
+
+A staging table named `DatasetImport` was used during data import.
+
+A total of **16 SQL queries** were written and verified against the Excel analysis. The queries cover:
+
+- Expired, soon-to-expire and usable stock.
+- Inventory cost and retail value.
+- Estimated gross profit and gross margin.
+- Stock status and reorder levels.
+- Inventory analysis by medicine type, manufacturer, prescription requirement and intended use.
+- Potential expiry exposure.
+
+The SQL scripts and their descriptions are available in the [SQL folder](SQL/README.md).
 
 ## Key results
 
@@ -67,14 +108,20 @@ The Excel analysis workbook contains these worksheets:
 | Estimated gross profit on current stock | ₹186,718.28 |
 | Overall estimated gross margin | 21.41% |
 
-The stock-status PivotTable counts 30 medicines as In Stock, 15 as Low Stock and 5 as Out of Stock.
+The stock-status analysis counts 30 medicines as In Stock, 15 as Low Stock and 5 as Out of Stock.
 
-## Dataset documentation
+## Project documentation
 
-- [Data Cleaning Methodology](docs/data-cleaning-methodology.md)
-- [Calculated Fields and Excel Formulas](docs/calculated-fields-and-formulas.md)
-- [PivotTable Analysis](docs/pivot-table-analysis.md)
-- [Inventory Summary and Metric Definitions](docs/inventory-summary-and-metric-definitions.md)
+### Excel documentation
+
+- [Data Cleaning Methodology](Dataset/Documentation/data-cleaning-methodology.md)
+- [Calculated Fields and Excel Formulas](Dataset/Documentation/calculated-fields-and-formulas.md)
+- [PivotTable Analysis](Dataset/Documentation/pivot-table-analysis.md)
+- [Inventory Summary and Metric Definitions](Dataset/Documentation/inventory-summary-and-metric-definitions.md)
+
+### SQL documentation
+
+- [SQL Queries and Database Documentation](SQL/README.md)
 
 ## Notes and assumptions
 
